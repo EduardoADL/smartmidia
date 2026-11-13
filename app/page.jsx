@@ -234,7 +234,7 @@ export default function HomePage() {
         <a href="#inicio" aria-label="Smart Mídia — início"><img src="/assets/images/brand/logo-smart-midia.png" alt="Smart Mídia" width="1116" height="648" loading="lazy" decoding="async" /></a>
         <p>Comunicação visual para dar vida às suas ideias e presença à sua marca.</p>
       </div>
-      <div className="footer__links"><span>EXPLORE</span><a href="#sobre">A Smart</a><a href="#solucoes">O que fazemos</a><a href="#processo">Nosso jeito</a><a href="#contato">Contato</a></div>
+      <div className="footer__links"><span>EXPLORE</span><a href="#sobre">A Smart</a><a href="#solucoes">O que fazemos</a><a href="#processo">Nosso jeito</a><a href="#contato">Contato</a><a href="/cartao">Cartão virtual</a></div>
       <div className="footer__links"><span>FALE COM A GENTE</span><a href="https://wa.me/5545999656388" target="_blank" rel="noopener noreferrer">WhatsApp ↗</a><a href="https://www.instagram.com/smartmidia.visual/" target="_blank" rel="noopener noreferrer">Instagram ↗</a><a href="https://maps.app.goo.gl/QMct4mG2PHMNSn16A" target="_blank" rel="noopener noreferrer">Como chegar ↗</a></div>
     </div>
     <div className="container footer__bottom">
